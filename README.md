@@ -13,5 +13,5 @@ We welcome contributions to this repository. If you would like to contribute, pl
 4. Create a pull request with a detailed description of your changes.
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
